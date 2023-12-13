@@ -16,8 +16,8 @@ Utility to preserve AI conversations using [gpt-cli](https://github.com/kharvd/g
 ### Requirements
 
 1. Install gpt-cli
-1. Download and save `save-gpt-cli.py` somewhere on your file system
    ([instructions](https://github.com/kharvd/gpt-cli/blob/main/README.md#installation))
+1. Download and save `save-gpt-cli.py` somewhere on your file system
 1. Use a log file (with the `--log_file` option or by setting the `log_file`
    setting in the [config
 yaml](https://github.com/kharvd/gpt-cli/blob/main/README.md#Configuration))
